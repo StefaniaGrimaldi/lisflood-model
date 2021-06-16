@@ -2,7 +2,7 @@
 
 ## About LISFLOOD
 
-see [Test](## test-markdown)
+see [Test](# test-markdown)
 
 LISFLOOD is a spatially distributed water resources model, developed by the Joint Research Centre (JRC) of the European Commission since 1997. 
 
